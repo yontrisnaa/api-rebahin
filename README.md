@@ -7,6 +7,6 @@
     Format: JSON
 
 🌐 Contoh Implementasi
-    Lihat penggunaan lengkap di rebahan.web.id:
+    Lihat penggunaan lengkap di https://rebahan.web.id:
     Streaming film & series gratis
     Antarmuka user-friendly
